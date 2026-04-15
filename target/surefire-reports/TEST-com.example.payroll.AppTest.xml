@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.example.payroll.AppTest" time="0.011" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.example.payroll.AppTest" time="0.01" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/apple/payroll-system/payroll/payroll-system/payroll/target/surefire/surefirebooter-20260415184202198_3.jar /Users/apple/payroll-system/payroll/payroll-system/payroll/target/surefire 2026-04-15T18-42-02_156-jvmRun1 surefire-20260415184202198_1tmp surefire_0-20260415184202198_2tmp"/>
+    <property name="sun.java.command" value="/Users/apple/payroll-system/payroll/payroll-system/payroll/target/surefire/surefirebooter-20260415190242827_3.jar /Users/apple/payroll-system/payroll/payroll-system/payroll/target/surefire 2026-04-15T19-02-42_764-jvmRun1 surefire-20260415190242827_1tmp surefire_0-20260415190242827_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/apple/payroll-system/payroll/payroll-system/payroll/target/test-classes:/Users/apple/payroll-system/payroll/payroll-system/payroll/target/classes:/Users/apple/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/apple/payroll-system/payroll/payroll-system/payroll/target/surefire/surefirebooter-20260415184202198_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/apple/payroll-system/payroll/payroll-system/payroll/target/surefire/surefirebooter-20260415190242827_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="22.0.1+8-16"/>
@@ -57,5 +57,5 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="testApp" classname="com.example.payroll.AppTest" time="0.001"/>
+  <testcase name="testApp" classname="com.example.payroll.AppTest" time="0.003"/>
 </testsuite>
